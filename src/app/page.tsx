@@ -21,7 +21,7 @@ export default function ComingSoon() {
 
         {/* Subheading */}
         <p className="text-xl text-gray-600 mb-12 leading-relaxed max-w-md mx-auto">
-          We're crafting something extraordinary. Stay tuned for our grand reveal.
+          We&apos;re crafting something extraordinary. Stay tuned for our grand reveal.
         </p>
 
         {/* Social Links */}
